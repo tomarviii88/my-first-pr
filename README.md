@@ -12,7 +12,7 @@ This repository is for beginners to make their first pull request and for anyone
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
 
-- [@prmsrswt](https://github.com/prmsrswt)
+- [@tomarviii88](https://github.com/prmsrswt)
 
 - [@mavi05](https://github.com/mavi05)
 
